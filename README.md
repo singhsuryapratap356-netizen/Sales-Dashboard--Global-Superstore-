@@ -1,1 +1,1 @@
-sales dashboard of global superstore
+Sales dashboard of a global superstore
