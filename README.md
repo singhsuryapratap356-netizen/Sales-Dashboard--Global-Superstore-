@@ -1,1 +1,1 @@
-Sales dashboard of a global superstore
+Excel Sales dashboard of a global superstore
